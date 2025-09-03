@@ -1,1 +1,1 @@
-segundo documento
+para crear un un proyecto en java ctrl + shit + p
